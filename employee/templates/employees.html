@@ -1,0 +1,25 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
+</head>
+<body >
+<div id="app">
+  <div id="filter-box">
+    <span>Number to Display</span>
+	<select v-model="limit">
+		<option v-for="n in employees.length" :value="n">{n}</option>
+	</select>
+  </div>
+	
+  <div id="list">
+	<employee-card v-for="employee in employees" v-if="employee.id <= limit" :user="employee" :key="employee.id"></employee-card>
+  </div>
+  
+</div>
+
+<script src="{% static 'js/bundle.js' %}"></script>
+</body>
+</html>
