@@ -47,15 +47,25 @@ Navigate to employee URL
 ## Todo
 
 > :white_check_mark: Create the python Project
+
 > :white_check_mark: Setup Webpack and Babel
+
 > :white_check_mark: Integrate VueJs for the frontend
+
 > :white_check_mark: Create a README
+
 > :black_square_button: Host on Heroku
+
 > :black_square_button: Add a Landing Page
+
 > :black_square_button: Implement Create a New Employee
+
 > :black_square_button: Implement Display Employee Details
+
 > :black_square_button: Add Vue Router
+
 > :black_square_button: Write a Descriptive Blog Post
+
 > :black_square_button: Create a python package
 
 License
