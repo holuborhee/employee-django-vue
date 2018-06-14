@@ -1,6 +1,8 @@
 # Employee (Django + Vue)
 
-This is a sample repo that demonstrate the use of Django with VueJS, a test app that shows how VueJS can be integrated with Django framework
+This is a sample repo that demonstrates the use of Django with VueJS, a test app that shows how VueJS can be integrated with Django framework
+
+![img](https://res.cloudinary.com/naera/image/upload/v1528961051/Screen_Shot_2018-06-14_at_8.13.12_AM_hymhjf.png)
 
 ## Technologies used
 
@@ -44,17 +46,17 @@ Navigate to employee URL
 
 ## Todo
 
-- Create the python Project
-- Setup Webpack and Babel
-- Integrate VueJs for the frontend
-- Create a README
-- Host on Heroku
-- Add a Landing Page
-- Implement Create a New Employee
-- Implement Display Employee Details
-- Add Vue Router
-- Write a Descriptive Blog Post
-- Create a python package
+> :white_check_mark: Create the python Project
+> :white_check_mark: Setup Webpack and Babel
+> :white_check_mark: Integrate VueJs for the frontend
+> :white_check_mark: Create a README
+> :black_square_button: Host on Heroku
+> :black_square_button: Add a Landing Page
+> :black_square_button: Implement Create a New Employee
+> :black_square_button: Implement Display Employee Details
+> :black_square_button: Add Vue Router
+> :black_square_button: Write a Descriptive Blog Post
+> :black_square_button: Create a python package
 
 License
 ----
